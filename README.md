@@ -17,3 +17,5 @@ K-Means Clustering is a simple yet powerful algorithm in data science
 
 The working of the K-Means algorithm is explained in the below steps:
 
+Step-1: Select the number K to decide the number of clusters.
+
