@@ -13,3 +13,7 @@ K-Means Clustering is a simple yet powerful algorithm in data science
  There are a plethora of real-world applications of K-Means Clustering (a few of which we will cover here)
 
 
+## How does the K-Means Algorithm Work?
+
+The working of the K-Means algorithm is explained in the below steps:
+
