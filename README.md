@@ -6,3 +6,9 @@
 - I have used visualization techniques like Distplot, count plot, violin plot, barplot, replot, scatter plot. 
 - While I was working on the dataset I have found that the relation between the annual income and spending score makes the perfect way to classify the customers and I have       divided them based on this taking the K value as 5. 
 
+## What is K-Means clustering?
+
+K-Means Clustering is a simple yet powerful algorithm in data science
+
+ 
+
