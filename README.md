@@ -46,4 +46,6 @@ one of the most common applications of clustering is customer segmentation. And 
 
 This is another common application of clustering. Let’s say you have multiple documents and you need to cluster similar documents together. Clustering helps us group these documents such that similar documents are in the same clusters.
 
+**Image Segmentation**
+
 
