@@ -40,3 +40,4 @@ It is actually being used in almost every domain, ranging from banking to recomm
 
 **Customer Segmentation**
 
+one of the most common applications of clustering is customer segmentation. And it isn’t just limited to banking. This strategy is across functions, including telecom, e-commerce, sports, advertising, sales, etc.
