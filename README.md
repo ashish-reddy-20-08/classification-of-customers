@@ -52,5 +52,5 @@ We can also use clustering to perform image segmentation. Here, we try to club s
 
 **Recommendation Engines**
 
-
+songs liked by that person and then use clustering to find similar songs and finally recommend the most similar songs.
 
