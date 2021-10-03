@@ -50,3 +50,7 @@ This is another common application of clustering. Let’s say you have multiple 
 
 We can also use clustering to perform image segmentation. Here, we try to club similar pixels in the image together. We can apply clustering to create clusters having similar pixels in the same group.
 
+**Recommendation Engines**
+
+
+
