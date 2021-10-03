@@ -34,4 +34,6 @@ Step-7: The model is ready.
 
 ## Applications of Clustering in Real-World Scenarios
 
-Clustering is a widely used technique in the industry. It is actually being used in almost every domain, ranging from banking to recommendation engines, document clustering to image segmentation.
+Clustering is a widely used technique in the industry. 
+
+It is actually being used in almost every domain, ranging from banking to recommendation engines, document clustering to image segmentation.
