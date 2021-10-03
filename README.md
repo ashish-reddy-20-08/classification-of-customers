@@ -37,3 +37,6 @@ Step-7: The model is ready.
 Clustering is a widely used technique in the industry. 
 
 It is actually being used in almost every domain, ranging from banking to recommendation engines, document clustering to image segmentation.
+
+**Customer Segmentation**
+
